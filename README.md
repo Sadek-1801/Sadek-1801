@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sadek
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning full stack web development
+- 💞️ I’m looking to collaborate on the odin project.
+- 📫 Email: hmashrafujjaman@gmail.com(preferred), WhatsApp: +8801533632562, fb:hmashraf.sadek
