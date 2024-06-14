@@ -4,6 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate junior MERN stack developer eager to build and innovate. Here you'll find a collection of my projects, contributions, and interests.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadek-1801&label=Profile%20views&color=0e75b6&style=flat" alt="sadek-1801" /> </p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-ashrafujjaman/)](https://www.linkedin.com/in/yourlinkedin/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:hmashrafujjaman@gmail.com)](mailto:hmashrafujjaman@gmail.com)
 
