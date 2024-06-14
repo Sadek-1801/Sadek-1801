@@ -26,15 +26,15 @@ Welcome to my GitHub profile! I'm a passionate junior MERN stack developer eager
 ![Sadek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadek-1801&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
-- **[Project Name](https://github.com/Sadek-1801/FitFinesse)**: •	FitFinesse is a comprehensive fitness class-booking platform designed to help users find and book fitness classes that match their preferences and schedules. 
-•	Implemented dashboard for admin, trainer and member, features like class search, pagination, class booking, trainer application, admin role to manage trainers, users and classes.
-•	Integrated firebase, private routs, and JWT authentication for better security.
+- **[FitFinesse](https://fitfinesse.netlify.app/)**:	FitFinesse is a comprehensive fitness class-booking platform designed to help users find and book fitness classes that match their preferences and schedules. 
+**:	Implemented dashboard for admin, trainer and member, features like class search, pagination, class booking, trainer application, admin role to manage trainers, users and classes.
+**:	Integrated firebase, private routs, and JWT authentication for better security.
 
-- **[Project Name](https://github.com/Sadek-1801/NextPath)**: •	Employers can create and publish job in a short span of time, specifying their requirements and attracting qualified candidates.
-•	Implemented features like B/W theme toggling, job searching, job filtering, add, update and apply for jobs.
+- **[NexPath](https://github.com/Sadek-1801/nexpath-client)**:	Employers can create and publish job in a short span of time, specifying their requirements and attracting qualified candidates.
+**:	Implemented features like B/W theme toggling, job searching, job filtering, add, update and apply for jobs.
 
-- **[Project Name](https://github.com/Sadek-1801/Fly-World)**: Focused on front end, User-friendly and visually appealing web solutions for travel lovers.
-•	User can add, update, delete destination according to their preference. 
+- **[Fly-World](https://github.com/Sadek-1801/Fly-world-client)**: Focused on front end, User-friendly and visually appealing web solutions for travel lovers.
+**:	User can add, update, delete destination according to their preference. 
 
 
 ## 📫 Contact Me
