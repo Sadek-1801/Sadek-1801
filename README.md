@@ -29,15 +29,21 @@ Welcome to my GitHub profile! I'm a passionate junior MERN stack developer eager
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadek-1801&" alt="sadek-1801" /></p>
 
 ## 🌟 Featured Projects
-- **[FitFinesse](https://fitfinesse.netlify.app/)**:	FitFinesse is a comprehensive fitness class-booking platform designed to help users find and book fitness classes that match their preferences and schedules. 
-**:	Implemented dashboard for admin, trainer and member, features like class search, pagination, class booking, trainer application, admin role to manage trainers, users and classes.
-**:	Integrated firebase, private routs, and JWT authentication for better security.
 
-- **[NexPath](https://github.com/Sadek-1801/nexpath-client)**:	Employers can create and publish job in a short span of time, specifying their requirements and attracting qualified candidates.
-**:	Implemented features like B/W theme toggling, job searching, job filtering, add, update and apply for jobs.
+- **[FitFinesse](https://fitfinesse.netlify.app/)**: 
+  FitFinesse is a comprehensive fitness class-booking platform designed to help users find and book fitness classes that match their preferences and schedules.
+  - Implemented dashboards for admin, trainer, and member.
+  - Features include class search, pagination, class booking, trainer application, and admin roles to manage trainers, users, and classes.
+  - Integrated Firebase, private routes, and JWT authentication for better security.
 
-- **[Fly-World](https://github.com/Sadek-1801/Fly-world-client)**: Focused on front end, User-friendly and visually appealing web solutions for travel lovers.
-**:	User can add, update, delete destination according to their preference. 
+- **[NexPath](https://github.com/Sadek-1801/nexpath-client)**: 
+  Employers can create and publish jobs quickly, specifying their requirements and attracting qualified candidates.
+  - Implemented features like B/W theme toggling, job searching, job filtering, and options to add, update, and apply for jobs.
+
+- **[Fly-World](https://github.com/Sadek-1801/Fly-world-client)**: 
+  Focused on the front end, providing user-friendly and visually appealing web solutions for travel lovers.
+  - Users can add, update, and delete destinations according to their preferences.
+
 
 
 ## 📫 Contact Me
