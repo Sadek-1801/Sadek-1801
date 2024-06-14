@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate junior MERN stack developer eager
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-ashrafujjaman/)](https://www.linkedin.com/in/yourlinkedin/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:hmashrafujjaman@gmail.com)](mailto:hmashrafujjaman@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_7shCLHhZpRkAcW0U5e8_LGJWKQz8xQc/view?usp=drive_link](https://drive.google.com/file/d/1_7shCLHhZpRkAcW0U5e8_LGJWKQz8xQc/view?usp=drive_link)
+- 📄 Know about my experiences [Take a glance at my Resume](https://drive.google.com/file/d/1_7shCLHhZpRkAcW0U5e8_LGJWKQz8xQc/view?usp=drive_link)
 
 
 ## 🚀 About Me
